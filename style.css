@@ -143,21 +143,6 @@ footer .colonne p:hover {
 		margin-top: 10%;
 		max-width: 100%;
 	}
-	.page-content header button {
-		background-color: inherit;
-		border: none;
-		outline: none;
-		padding: 0;
-		font-size: 15px;
-		font-weight: bold;
-		padding-bottom: 5px;
-		border-bottom: 1px solid #ccc;
-		cursor: pointer;
-	}
-	.page-content header button:hover {
-		color: #ccc;
-		border-bottom-color: #000;
-	}
 	.page-content .projects-section {
 		margin-top: 15%;
 	}
