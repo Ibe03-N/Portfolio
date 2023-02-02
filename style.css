@@ -5,7 +5,6 @@ body {
 	padding: 0 2%;
 	margin: 0;
 }
-
 nav {
 	display: flex;
 	flex-wrap: wrap;
@@ -61,7 +60,7 @@ a{
 	font-size: 4vw;
 }
 .page-content header p {
-	line-height: 30px;
+	line-height: 20px;
 	color: #818181;
 }
 .page-content header button {
